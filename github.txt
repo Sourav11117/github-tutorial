@@ -2,6 +2,7 @@ git --version     : to check version
 git init          : to initialize git
 git status        : to check status
 git add .         : to add all files
+git rm filename.formate    : to remove a specific file
 git add filename.formate   : to add a specific file
 git commit -m "version"    : to commit file(version controlling) 
 git branch                 : to see branches
